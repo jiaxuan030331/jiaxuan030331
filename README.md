@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jiaxuan Huang
 
-<!--
-**jiaxuan030331/jiaxuan030331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Data Science, New York University  
+Focus: Applied Machine Learning · Speech Recognition · Medical Imaging
 
-Here are some ideas to get you started:
+## Selected Projects
+- **Multilingual ASR Router (Kimi + Whisper)** — Whisper encoder + LID routing; Mandarin/English via Kimi, dialects via finetuned Whisper; Cantonese CER ≈15% with real-time latency.  
+- **ARC Solver (Kaggle Featured, Silver)** — Multi-strategy solver with C++17/pybind11 backends; 4–46× speedups.  
+- **ItS2CLR Reproduction (WSI SSL)** — Reproduced pipeline on Camelyon16; released reproducible baselines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python, C++, SQL · PyTorch, FastAPI, CTranslate2 · Docker, Linux, Git
+
+## Contact
+Email: jiaxuanhuang2003@gmail.com · LinkedIn: https://www.linkedin.com/in/your-id
