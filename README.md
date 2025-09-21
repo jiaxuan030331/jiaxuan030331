@@ -3,14 +3,13 @@ M.S. Data Science, New York University
 Focus: Applied Machine Learning · Speech Recognition · Medical Imaging
 
 ## Selected Projects
-- **[Multilingual ASR Router (Kimi + Whisper)](https://github.com/jiaxuan030331/<asr-repo>)**
+- **[Multilingual ASR Router (Kimi + Whisper)](https://github.com/jiaxuan030331/China-Multi-Lingual-ASR-System)**
 - Whisper encoder + LID routing; Mandarin/English via Kimi, dialects via finetuned Whisper; Cantonese CER ≈15% with real-time latency.
   
-- **[ARC Solver (Kaggle Featured, Silver)](https://github.com/jiaxuan030331/<asr-repo>)**
+- **[ARC Solver (Kaggle Featured, Silver)](https://github.com/jiaxuan030331/ARC2024-solution)**
 - Multi-strategy solver with C++17/pybind11 backends; 4–46× speedups.
   
-- **[ItS2CLR Reproduction (WSI SSL)](https://github.com/jiaxuan030331/<its2clr-repo>)**
-- Reproduced pipeline on Camelyon16; released reproducible baselines.
+
 
 
   
