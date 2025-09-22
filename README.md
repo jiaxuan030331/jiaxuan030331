@@ -1,6 +1,6 @@
 # Jiaxuan Huang
 M.S. Data Science, New York University  
-Focus: Applied Machine Learning · Speech Recognition · Medical Imaging
+Focus: Applied Machine Learning · Speech Recognition 
 
 ## Selected Projects
 - **[Multilingual ASR Router (Kimi + Whisper)](https://github.com/jiaxuan030331/China-Multi-Lingual-ASR-System)**
