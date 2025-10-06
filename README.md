@@ -3,7 +3,7 @@ M.S. Data Science, New York University
 Focus: Applied Machine Learning · Speech Recognition 
 
 ### Resume
-• [Jiaxuan_Huang_Resume.pdf](Jiaxuan_Huang_Resume.pdf)
+• [Jiaxuan_Huang_Resume.pdf](Resume_Jiaxuan_Huang.pdf)
 
 ## Selected Projects
 - **[Multilingual ASR Router (Kimi + Whisper)](https://github.com/jiaxuan030331/China-Multi-Lingual-ASR-System)**
